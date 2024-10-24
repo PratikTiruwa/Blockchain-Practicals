@@ -1,5 +1,5 @@
 Deposit and withdraw money
-Aim : Deposit and withdraw money
+Aim : Write a smart contract to deposit and withdraw money.
 
 
 Factorial of a number
