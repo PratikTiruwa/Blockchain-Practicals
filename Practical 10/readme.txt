@@ -11,5 +11,5 @@ Multiple Inheritance (Folder)
 Aim : Write a smart contract for Multiple Inheritance.
 
 
-Hierarchial Inheritance
+Hierarchial Inheritance (Folder)
 Aim :  Write a smart contract for Hierarchical Inheritance.
